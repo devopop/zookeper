@@ -1,6 +1,6 @@
-dependencies:
-- name: helm-toolkit
-  repository: http://localhost:8879/charts
-  version: 0.1.0-mcp-2703
-digest: sha256:e788031e6eaca48ece31b85d6d45910c05ab84b77639055820dd8bbac8394383
-generated: "2021-03-09T15:26:09.620459423Z"
+#dependencies:
+#- name: helm-toolkit
+#  repository: http://localhost:8879/charts
+#  version: 0.1.0-mcp-2703
+#digest: sha256:e788031e6eaca48ece31b85d6d45910c05ab84b77639055820dd8bbac8394383
+#generated: "2021-03-09T15:26:09.620459423Z"
